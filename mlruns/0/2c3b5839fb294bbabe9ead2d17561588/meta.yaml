@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/saurabh/Desktop/amazon_delivery_prediction/mlruns/0/2c3b5839fb294bbabe9ead2d17561588/artifacts
+end_time: 1759089710567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c3b5839fb294bbabe9ead2d17561588
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759089710512
+status: 4
+tags: []
+user_id: LENOVO

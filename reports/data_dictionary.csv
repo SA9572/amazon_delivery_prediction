@@ -1,0 +1,17 @@
+Column,DataType,MissingValues,UniqueValues
+Order_ID,object,0,43739
+Agent_Age,int64,0,22
+Agent_Rating,float64,54,28
+Store_Latitude,float64,0,521
+Store_Longitude,float64,0,415
+Drop_Latitude,float64,0,4367
+Drop_Longitude,float64,0,4367
+Order_Date,object,0,44
+Order_Time,object,0,177
+Pickup_Time,object,0,193
+Weather,object,91,6
+Traffic,object,0,5
+Vehicle,object,0,4
+Area,object,0,4
+Delivery_Time,int64,0,89
+Category,object,0,16
